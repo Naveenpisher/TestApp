@@ -1,0 +1,7 @@
+
+
+@media  (min-width:1200px) {
+    .form-wrapper{
+        min-height: 80vh;
+    }
+}
